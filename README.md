@@ -14,3 +14,5 @@ I recommend that you install the accompanying icon, gtk and cursor themes
 [Cursor Theme](https://www.pling.com/p/999732/)
 
 [Background](https://www.pling.com/p/2067568/)
+
+[Fonts](https://www.kreativekorp.com/software/fonts/c64/)
